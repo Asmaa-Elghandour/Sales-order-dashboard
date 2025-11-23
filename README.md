@@ -52,4 +52,5 @@ The dataset includes details about:
 
 ## 📷 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/Asmaa-Elghandour/Sales-order-dashboard/main/project/dashboard.png" width="1200">
+<img src="https://raw.githubusercontent.com/Asmaa-Elghandour/Sales-order-dashboard/main/project/dashboard.png" width="1200" />
+
